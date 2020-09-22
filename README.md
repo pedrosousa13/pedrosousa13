@@ -2,7 +2,7 @@
 
 #### I'm a Full Stack Developer working in Berlin, Germany.
 
-- 🏢 I'm currently working at [**keylight**](https://www.keylight.de/)
+- 🏢 I'm currently working at [**Education First**](https://www.ef.com/)
 - ⚙️ Daily drivers: `.php`, `.js`, `.ts`, `docker`
 - 🌱 Learning all about **Typescript**, **Laravel**, **Angular**
 - 📫 Reach me: [twitter.com/pedroso_usa](https://twitter.com/pedroso_usa)
