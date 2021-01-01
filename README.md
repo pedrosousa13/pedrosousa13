@@ -6,3 +6,4 @@
 - ⚙️ Daily drivers: `.php`, `.js`, `.ts`, `docker`
 - 🌱 Learning all about **Typescript**, **Laravel**, **Angular**
 - 📫 Reach me: [twitter.com/pedroso_usa](https://twitter.com/pedroso_usa)
+- :computer: [psousa.dev](https://psousa.dev) + [blog.psousa.dev](https://blog.psousa.dev)
