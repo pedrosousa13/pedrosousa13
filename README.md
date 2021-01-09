@@ -17,8 +17,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Generate Dynamic Sitemap with Storyblok and Next.js](https://blog.psousa.dev/posts/generate-dynamic-sitemap-with-storyblok-and-next-js)
 - [Sign your commits with GPG](https://blog.psousa.dev/posts/verified-badge-on-github)
+- [Generate Dynamic Sitemap with Storyblok and Next.js](https://blog.psousa.dev/posts/generate-dynamic-sitemap-with-storyblok-and-next-js)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
