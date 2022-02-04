@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript, Next.js**
 
-- 📝 I regularly write articles on [https://blog.psousa.dev](https://blog.psousa.dev)
+- 📝 I sometimes write articles on [https://blog.psousa.dev](https://blog.psousa.dev)
 
 - ⚙️ Daily drivers: **`.php`, `.js`, `.ts`**
 
