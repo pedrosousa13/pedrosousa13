@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working at **Education First**
 
-- 🌱 I’m currently learning **Typescript, Next.js**
+- 🌱 I’m currently learning **Astro**
 
 - 📝 I sometimes write articles on [https://blog.psousa.dev](https://blog.psousa.dev)
 
-- ⚙️ Daily drivers: **`.php`, `.js`, `.ts`**
+- ⚙️ Daily drivers: **`.tsx`, `.ts`**
 
 - 📫 How to reach me **me@psousa.dev**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pedrosousa13/](https://www.linkedin.com/in/pedrosousa13/)
+- 📄 Know about my experience [https://www.linkedin.com/in/pedrosousa13/](https://www.linkedin.com/in/pedrosousa13/)
 
 <p align="left"> <a href="https://twitter.com/pedroso_usa" target="blank"><img src="https://img.shields.io/twitter/follow/pedroso_usa?logo=twitter&style=for-the-badge" alt="pedroso_usa" /></a> </p>
 
