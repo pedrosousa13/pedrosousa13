@@ -26,5 +26,3 @@
 <a href="https://twitter.com/pedroso_usa" target="blank">Twitter</a>
 <a href="https://linkedin.com/in/pedrosousa13" target="blank">Linkedin</a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrosousa13&show_icons=true&locale=en" alt="pedrosousa13" /></p>
