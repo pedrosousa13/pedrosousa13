@@ -13,7 +13,6 @@
 
 - 📄 Know about my experience [https://www.linkedin.com/in/pedrosousa13/](https://www.linkedin.com/in/pedrosousa13/)
 
-<p align="left"> <a href="https://twitter.com/pedroso_usa" target="blank"><img src="https://img.shields.io/twitter/follow/pedroso_usa?logo=twitter&style=for-the-badge" alt="pedroso_usa" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -23,6 +22,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pedroso_usa" target="blank">Twitter</a>
 <a href="https://linkedin.com/in/pedrosousa13" target="blank">Linkedin</a>
 </p>
