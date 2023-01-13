@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Sousa</h1>
-<h3 align="center">I'm a Full Stack Developer working from Lucerne, Switzerland.</h3>
+<h3 align="center">I'm a Full Stack Developer working from Zurich, Switzerland.</h3>
 
 - 🔭 I’m currently working at **Education First**
 
