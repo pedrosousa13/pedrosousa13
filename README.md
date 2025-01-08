@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Education First**
 
-- 🌱 I’m currently learning **Astro**
+- 🌱 I’m currently learning **Zig**
 
 - 📝 I sometimes write articles on [https://blog.psousa.dev](https://blog.psousa.dev)
 
